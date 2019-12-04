@@ -19,7 +19,7 @@ void game()
 {
     int matches = randomMatches();
     bool playerTurn;
-    cout << "Here's the stick, there are " << matches << " matches." << endl;
+    cout << "Here's the stick, there's a pile of matches with " << matches << " many matches." << endl;
     cout << "You can remove either 1,2 or 5 matches." << endl;
     cout << "You win when I can't remove any more matches, otherwise ya lose!" << endl;
 
@@ -40,7 +40,7 @@ void game()
         else
         {
             int reduce = removalAlgorithim(matches);
-            cout<<"I am going to remove "<<reduce<<" matches"<<endl;
+            cout << "I am going to remove " << reduce << " matches" << endl;
 
             matches -= reduce;
             playerTurn = true;
