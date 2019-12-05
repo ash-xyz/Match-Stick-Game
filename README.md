@@ -9,4 +9,4 @@ You win when the computer can't make anymore moves, and zero match sticks remain
 
 ## Development
 - As previously mentioned, this is a console based game.
-- It was a usefull project I worked on to improve my understanding of c++ with a fun and interactive challenge
+- It was a usefull project I worked on to improve my understanding of c++ and was a fun and interactive challenge
