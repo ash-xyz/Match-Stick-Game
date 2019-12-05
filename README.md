@@ -14,4 +14,5 @@ You win when the computer can't make anymore moves, and zero match sticks remain
 ## Running the Game
 - Either
     - Download and run the exe
-    - Download and compile the c++ file for yourself :smile:
+    - Download and compile the c++ file for yourself
+- Enjoy! :smile:
